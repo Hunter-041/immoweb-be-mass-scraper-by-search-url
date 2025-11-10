@@ -1,0 +1,24 @@
+[
+  {
+    "title": "3-Bedroom Apartment for Rent in Brussels",
+    "description": "Spacious apartment with balcony, close to public transport and shops.",
+    "price": "€1,200/month",
+    "photos": [
+      "https://www.immoweb.be/images/12345.jpg"
+    ],
+    "location": "Brussels, 1000",
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 120,
+    "energyClass": "B",
+    "publisher": "Immo Plus Agency",
+    "contact": "+32 475 123 456",
+    "views": 245,
+    "datePosted": "2025-03-12",
+    "apify_monitoring_status": "new",
+    "id": "12345",
+    "url": "https://www.immoweb.be/en/classified/3-bedroom-apartment-for-rent-brussels/12345",
+    "searchUrl": "https://www.immoweb.be/en/search/apartment/for-rent?countries=BE"
+  }
+]
