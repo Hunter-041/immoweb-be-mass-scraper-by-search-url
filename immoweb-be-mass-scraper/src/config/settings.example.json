@@ -1,0 +1,9 @@
+{
+  "max_pages_to_scrape": 3,
+  "concurrency": 5,
+  "request_timeout": 30,
+  "request_delay": 0.5,
+  "user_agent": "ImmowebMassScraper/1.0 (+https://bitbash.dev)",
+  "output_formats": ["json", "csv", "excel"],
+  "delta_mode_enabled": true
+}
